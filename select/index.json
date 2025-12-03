@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "エレクトロ・ワールド",
+  "base_artist": "Perfume",
+  "createdAt": "2025-12-03T23:27:58.078097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エレクトロ・ワールド (Album Version)",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/01_エレクトロ・ワールド_(Album_Version)_Perfume.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エレクトロ・ワールド",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/02_エレクトロ・ワールド_Perfume.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Electro World [エレクトロ・ワールド]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/03_Electro_World_[エレクトロ・ワールド]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Electro World [エレクトロ・ワールド]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/04_Electro_World_[エレクトロ・ワールド]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エレクトロ・ワールド - Electro World",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/05_エレクトロ・ワールド_-_Electro_World_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エレクトロ・ワールド - Album-mix",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/06_エレクトロ・ワールド_-_Album-mix_Perfume.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エレクトロ・ワールド",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/07_エレクトロ・ワールド_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エレクトロ・ワールド",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/08_エレクトロ・ワールド_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Perfume-エレクトロ・ワールド",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/09_Perfume-エレクトロ・ワールド_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "エレクトロ・ワールド (Paused)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/10_エレクトロ・ワールド_(Paused)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "エレクトロ・ワールド (Paused)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/11_エレクトロ・ワールド_(Paused)_Perfume.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エレクトロ・ワールド",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_01_エレクトロ・ワールド_Perfume.txt"
+    }
+  ]
+}
